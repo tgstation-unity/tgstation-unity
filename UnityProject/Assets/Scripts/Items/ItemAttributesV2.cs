@@ -4,6 +4,8 @@ using UnityEngine;
 using Mirror;
 using AddressableReferences;
 using Systems.Clothing;
+using NaughtyAttributes;
+using Unity.Collections;
 
 namespace Items
 {
