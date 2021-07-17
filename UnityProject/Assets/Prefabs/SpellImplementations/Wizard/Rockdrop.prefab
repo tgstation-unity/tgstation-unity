@@ -48,7 +48,8 @@ MonoBehaviour:
   isDirty: 0
   sceneId: 0
   serverOnly: 0
-  m_AssetId: 
+  visible: 0
+  m_AssetId: 744b0cb256b76454bb452aa847daf921
   hasSpawned: 0
 --- !u!114 &6794817751832701430
 MonoBehaviour:

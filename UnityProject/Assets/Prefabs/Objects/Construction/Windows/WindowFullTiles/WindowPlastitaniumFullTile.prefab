@@ -16,9 +16,11 @@ MonoBehaviour:
   syncInterval: 0.1
   matrixDebugLogging: 0
   objectType: 1
+  CurrentsortingGroup: {fileID: 0}
   AtmosPassable: 1
-  Passable: 0
   ReachableThrough: 1
+  initialPassable: 0
+  initialCrawlPassable: 0
   passableExclusionsToThis: []
 --- !u!114 &7431892531360401419
 MonoBehaviour:
@@ -176,7 +178,7 @@ PrefabInstance:
     - target: {fileID: 9182134985305426894, guid: 422afccc119081a4fa895bc72e8ecd78,
         type: 3}
       propertyPath: m_AssetId
-      value: 
+      value: b670446c2e73a094aa965de9e3a5da59
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4417768362827673165, guid: 422afccc119081a4fa895bc72e8ecd78, type: 3}

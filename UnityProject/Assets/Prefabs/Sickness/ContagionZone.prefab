@@ -66,7 +66,8 @@ MonoBehaviour:
   isDirty: 0
   sceneId: 0
   serverOnly: 0
-  m_AssetId: 
+  visible: 0
+  m_AssetId: 6b7d76d0441cf764d88345e0892597b5
   hasSpawned: 0
 --- !u!114 &-7775007330971627524
 MonoBehaviour:
@@ -100,6 +101,7 @@ MonoBehaviour:
   syncInterval: 0.1
   matrixDebugLogging: 0
   objectType: 0
+  CurrentsortingGroup: {fileID: 0}
 --- !u!61 &5676811646598368162
 BoxCollider2D:
   m_ObjectHideFlags: 0
